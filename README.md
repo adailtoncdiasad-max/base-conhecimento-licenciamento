@@ -24,3 +24,4 @@ Textos Oficiais: Prefira armazenar os textos oficiais das leis, decretos e resol
 Privacidade (LGPD): Certifique-se de anonimizar dados pessoais, CPFs, CNPJs e informações sigilosas em pareceres e exemplos anteriores inseridos na base.
 ---
 Gerado com base no roteiro de criação simplificado para iniciantes.
+supabase - mQjNv6cv4UduH0At 
